@@ -1,0 +1,60 @@
+body{
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+.video-container{
+  height: 100vh;
+}
+video{
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+
+}
+.time{
+  height: 100vh;
+  text-align: center;
+  padding-top: 220px;
+}
+.btn{
+  margin-bottom: 20px;
+}
+h3{
+  color: white;
+  margin-bottom: 20px;
+}
+.control{
+  height: 100vh;
+  text-align: center;
+  padding-top: 200px;
+
+  font-size: 60px;
+}
+p{
+  font-size: 100px;
+  padding: 0;
+  margin-bottom: 20px;
+}
+i{
+  margin-right: 40px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.fas{
+  margin-right: 10px;
+}
+i:hover{
+  color: #7267CB;
+}
+.weather{
+  height: 100vh;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 60px;
+}
+.mood{
+  font-size: 60px;
+  padding: 0;
+  margin-bottom: 10px;
+}
